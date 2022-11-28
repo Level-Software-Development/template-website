@@ -1,9 +1,11 @@
-import { Hello } from "../components/hello";
+import { NextPage } from 'next';
+import { Hello } from '../components/hello';
 
-export default function Home() {
+const Home: NextPage = () => {
   return (
-    <div>
+    <div className="bg-gray-800">
       <Hello />
     </div>
   );
-}
+};
+export default Home;
