@@ -27,6 +27,9 @@
 - tailwindcss
 - typescript
 
+For full list and versions please see: [package.json](https://github.com/Level-Software-Development/template-website/blob/main/package.json)
+
+
 ## :arrow_forward: Usage
 
 ```sh
