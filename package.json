@@ -1,0 +1,36 @@
+{
+  "name": "template-website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -- -p 3005.",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.6.9",
+    "@auth0/nextjs-auth0": "^1.9.2",
+    "lodash": "^4.17.21",
+    "luxon": "^3.0.4",
+    "next-http-proxy-middleware": "^1.2.5",
+    "next-seo": "^5.11.1",
+    "next": "13.0.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.9",
+    "@types/react": "18.0.25",
+    "@types/react-dom": "18.0.9",
+    "@types/http-proxy": "^1.17.9",
+    "@types/luxon": "^3.0.1",
+    "apollo": "^2.34.0",
+    "autoprefixer": "^10.4.13",
+    "eslint": "8.28.0",
+    "eslint-config-next": "13.0.4",
+    "postcss": "^8.4.19",
+    "typescript": "4.9.3",
+    "tailwindcss": "^3.2.4"
+  }
+}
