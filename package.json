@@ -12,7 +12,7 @@
     "@apollo/client": "^3.7.1",
     "@auth0/nextjs-auth0": "^1.9.2",
     "lodash": "^4.17.21",
-    "luxon": "^3.1.1",
+    "luxon": "^3.2.1",
     "next": "^13.0.5",
     "next-http-proxy-middleware": "^1.2.5",
     "next-seo": "^5.14.1",
