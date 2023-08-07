@@ -23,7 +23,6 @@
 - @auth0/nextjs-auth0
 - lodash
 - luxon
-- next-seo
 - tailwindcss
 - typescript
 
