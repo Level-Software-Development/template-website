@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+# types
+util/types/**
+
 # next.js
 /.next/
 /out/
@@ -40,3 +43,8 @@ next-env.d.ts
 .DS_Store
 
 .env
+# Sentry
+.sentryclirc
+
+# Sentry
+next.config.original.js
