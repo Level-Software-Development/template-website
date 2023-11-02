@@ -29,7 +29,7 @@
     "eslint": "^8.46.0",
     "eslint-config-next": "^13.4.13",
     "graphql": "^16.8.1",
-    "postcss": "^8.4.27",
+    "postcss": "^8.4.31",
     "tailwindcss": "^3.3.3",
     "typescript": "^5.1.6"
   }
